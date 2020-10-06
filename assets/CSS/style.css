@@ -1,0 +1,9 @@
+#back {
+    color: black;
+    background-color: white;
+    background-image: url(../IMG/ocean.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
